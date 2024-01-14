@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\bin\Debug\net6.0\3. Matching Brackets.exe
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\bin\Debug\net6.0\3. Matching Brackets.deps.json
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\bin\Debug\net6.0\3. Matching Brackets.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\bin\Debug\net6.0\3. Matching Brackets.dll
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\bin\Debug\net6.0\3. Matching Brackets.pdb
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\obj\Debug\net6.0\3. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\obj\Debug\net6.0\3. Matching Brackets.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\obj\Debug\net6.0\3. Matching Brackets.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\obj\Debug\net6.0\3. Matching Brackets.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\obj\Debug\net6.0\3. Matching Brackets.dll
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\obj\Debug\net6.0\refint\3. Matching Brackets.dll
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\obj\Debug\net6.0\3. Matching Brackets.pdb
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\obj\Debug\net6.0\3. Matching Brackets.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Lab\3. Matching Brackets\obj\Debug\net6.0\ref\3. Matching Brackets.dll

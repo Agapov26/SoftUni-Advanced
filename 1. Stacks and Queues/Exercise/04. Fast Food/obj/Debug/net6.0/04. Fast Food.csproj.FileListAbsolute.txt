@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.exe
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.deps.json
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.dll
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net6.0\04. Fast Food.pdb
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.dll
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net6.0\refint\04. Fast Food.dll
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.pdb
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net6.0\04. Fast Food.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\1. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net6.0\ref\04. Fast Food.dll
