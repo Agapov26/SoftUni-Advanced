@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.exe
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.deps.json
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.dev.json
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.dll
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.pdb
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.AssemblyReference.cache
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.dll
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.pdb
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.exe
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.deps.json
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.dll
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.pdb
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.dll
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\net6.0\refint\3. Maximal Sum.dll
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.pdb
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Exercise\3. Maximal Sum\obj\Debug\net6.0\ref\3. Maximal Sum.dll

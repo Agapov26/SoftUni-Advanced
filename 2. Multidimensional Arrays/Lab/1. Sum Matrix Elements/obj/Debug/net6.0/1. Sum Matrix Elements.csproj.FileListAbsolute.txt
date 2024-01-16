@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.exe
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.deps.json
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.dll
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.pdb
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.dll
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\refint\1. Sum Matrix Elements.dll
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.pdb
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\2. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net6.0\ref\1. Sum Matrix Elements.dll
