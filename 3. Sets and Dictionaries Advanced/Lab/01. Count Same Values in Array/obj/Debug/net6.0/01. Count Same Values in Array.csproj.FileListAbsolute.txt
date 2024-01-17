@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.exe
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.deps.json
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\bin\Debug\net6.0\01. Count Same Values in Array.pdb
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\obj\Debug\net6.0\refint\01. Count Same Values in Array.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.pdb
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\obj\Debug\net6.0\01. Count Same Values in Array.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Lab\01. Count Same Values in Array\obj\Debug\net6.0\ref\01. Count Same Values in Array.dll
