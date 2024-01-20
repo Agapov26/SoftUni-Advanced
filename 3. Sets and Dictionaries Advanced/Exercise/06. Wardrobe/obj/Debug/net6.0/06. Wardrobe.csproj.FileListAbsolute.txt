@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.exe
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.deps.json
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.pdb
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\obj\Debug\net6.0\refint\06. Wardrobe.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.pdb
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\06. Wardrobe\obj\Debug\net6.0\ref\06. Wardrobe.dll

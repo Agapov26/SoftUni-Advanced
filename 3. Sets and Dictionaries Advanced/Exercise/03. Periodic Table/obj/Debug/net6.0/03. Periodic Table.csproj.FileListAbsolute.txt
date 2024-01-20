@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.exe
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.deps.json
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.pdb
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net6.0\refint\03. Periodic Table.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.pdb
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net6.0\ref\03. Periodic Table.dll

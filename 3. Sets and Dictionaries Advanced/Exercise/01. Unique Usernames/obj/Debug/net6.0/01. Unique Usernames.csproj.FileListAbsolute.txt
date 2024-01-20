@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.exe
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.deps.json
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.pdb
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net6.0\refint\01. Unique Usernames.dll
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.pdb
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\3. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net6.0\ref\01. Unique Usernames.dll
