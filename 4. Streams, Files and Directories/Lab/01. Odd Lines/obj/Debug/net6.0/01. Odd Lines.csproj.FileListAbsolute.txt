@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.exe
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.deps.json
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.pdb
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\obj\Debug\net6.0\refint\01. Odd Lines.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.pdb
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Lab\01. Odd Lines\obj\Debug\net6.0\ref\01. Odd Lines.dll

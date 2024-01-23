@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.exe
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.deps.json
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.pdb
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\obj\Debug\net6.0\refint\04. Directory Traversal.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.pdb
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\04. Directory Traversal\obj\Debug\net6.0\ref\04. Directory Traversal.dll

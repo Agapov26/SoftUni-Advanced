@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.exe
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.deps.json
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.pdb
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\obj\Debug\net6.0\refint\01. Even Lines.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.pdb
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\01. Even Lines\obj\Debug\net6.0\ref\01. Even Lines.dll

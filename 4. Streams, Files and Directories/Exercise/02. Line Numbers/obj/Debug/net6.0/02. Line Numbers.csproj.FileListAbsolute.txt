@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.exe
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.deps.json
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.pdb
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\obj\Debug\net6.0\refint\02. Line Numbers.dll
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.pdb
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\4. Streams, Files and Directories\Exercise\02. Line Numbers\obj\Debug\net6.0\ref\02. Line Numbers.dll
