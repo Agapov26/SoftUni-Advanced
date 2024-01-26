@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.exe
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.deps.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\obj\Debug\net6.0\refint\08. List Of Predicates.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Exercise\08. List Of Predicates\obj\Debug\net6.0\ref\08. List Of Predicates.dll

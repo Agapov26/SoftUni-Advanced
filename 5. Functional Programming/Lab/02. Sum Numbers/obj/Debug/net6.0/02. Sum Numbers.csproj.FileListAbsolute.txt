@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.exe
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.deps.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\bin\Debug\net6.0\02. Sum Numbers.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\obj\Debug\net6.0\refint\02. Sum Numbers.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\obj\Debug\net6.0\02. Sum Numbers.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\02. Sum Numbers\obj\Debug\net6.0\ref\02. Sum Numbers.dll

@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\bin\Debug\net6.0\04. Add VAT.exe
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\bin\Debug\net6.0\04. Add VAT.deps.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\bin\Debug\net6.0\04. Add VAT.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\bin\Debug\net6.0\04. Add VAT.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\bin\Debug\net6.0\04. Add VAT.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\obj\Debug\net6.0\04. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\obj\Debug\net6.0\04. Add VAT.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\obj\Debug\net6.0\04. Add VAT.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\obj\Debug\net6.0\04. Add VAT.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\obj\Debug\net6.0\04. Add VAT.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\obj\Debug\net6.0\refint\04. Add VAT.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\obj\Debug\net6.0\04. Add VAT.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\obj\Debug\net6.0\04. Add VAT.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\04. Add VAT\obj\Debug\net6.0\ref\04. Add VAT.dll

@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.exe
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.deps.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\obj\Debug\net6.0\refint\01. Sort Even Numbers.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\01. Sort Even Numbers\obj\Debug\net6.0\ref\01. Sort Even Numbers.dll

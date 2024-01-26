@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\bin\Debug\net6.0\3. Count Uppercase Words.exe
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\bin\Debug\net6.0\3. Count Uppercase Words.deps.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\bin\Debug\net6.0\3. Count Uppercase Words.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\bin\Debug\net6.0\3. Count Uppercase Words.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\bin\Debug\net6.0\3. Count Uppercase Words.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\obj\Debug\net6.0\3. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\obj\Debug\net6.0\3. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\obj\Debug\net6.0\3. Count Uppercase Words.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\obj\Debug\net6.0\3. Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\obj\Debug\net6.0\3. Count Uppercase Words.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\obj\Debug\net6.0\refint\3. Count Uppercase Words.dll
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\obj\Debug\net6.0\3. Count Uppercase Words.pdb
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\obj\Debug\net6.0\3. Count Uppercase Words.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\5. Functional Programming\Lab\3. Count Uppercase Words\obj\Debug\net6.0\ref\3. Count Uppercase Words.dll
