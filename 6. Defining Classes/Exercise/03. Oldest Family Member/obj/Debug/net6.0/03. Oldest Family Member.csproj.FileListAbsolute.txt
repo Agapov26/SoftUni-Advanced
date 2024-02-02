@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\bin\Debug\net6.0\03. Oldest Family Member.exe
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\bin\Debug\net6.0\03. Oldest Family Member.deps.json
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\bin\Debug\net6.0\03. Oldest Family Member.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\bin\Debug\net6.0\03. Oldest Family Member.dll
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\bin\Debug\net6.0\03. Oldest Family Member.pdb
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\obj\Debug\net6.0\03. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\obj\Debug\net6.0\03. Oldest Family Member.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\obj\Debug\net6.0\03. Oldest Family Member.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\obj\Debug\net6.0\03. Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\obj\Debug\net6.0\03. Oldest Family Member.dll
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\obj\Debug\net6.0\refint\03. Oldest Family Member.dll
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\obj\Debug\net6.0\03. Oldest Family Member.pdb
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\obj\Debug\net6.0\03. Oldest Family Member.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\03. Oldest Family Member\obj\Debug\net6.0\ref\03. Oldest Family Member.dll

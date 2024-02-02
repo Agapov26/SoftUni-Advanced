@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.exe
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.deps.json
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.dll
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.pdb
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.dll
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\obj\Debug\net6.0\refint\05. Date Modifier.dll
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.pdb
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\05. Date Modifier\obj\Debug\net6.0\ref\05. Date Modifier.dll

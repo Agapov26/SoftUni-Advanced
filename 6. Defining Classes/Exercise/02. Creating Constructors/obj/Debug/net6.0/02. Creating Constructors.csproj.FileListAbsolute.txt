@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.exe
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.deps.json
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.dll
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.pdb
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.dll
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\net6.0\refint\02. Creating Constructors.dll
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.pdb
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\6. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\net6.0\ref\02. Creating Constructors.dll
