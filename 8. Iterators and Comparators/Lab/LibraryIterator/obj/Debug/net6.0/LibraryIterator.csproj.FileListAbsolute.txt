@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\bin\Debug\net6.0\LibraryIterator.exe
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\bin\Debug\net6.0\LibraryIterator.deps.json
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\bin\Debug\net6.0\LibraryIterator.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\bin\Debug\net6.0\LibraryIterator.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\bin\Debug\net6.0\LibraryIterator.pdb
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\obj\Debug\net6.0\LibraryIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\obj\Debug\net6.0\LibraryIterator.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\obj\Debug\net6.0\LibraryIterator.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\obj\Debug\net6.0\LibraryIterator.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\obj\Debug\net6.0\LibraryIterator.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\obj\Debug\net6.0\refint\LibraryIterator.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\obj\Debug\net6.0\LibraryIterator.pdb
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\obj\Debug\net6.0\LibraryIterator.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\LibraryIterator\obj\Debug\net6.0\ref\LibraryIterator.dll

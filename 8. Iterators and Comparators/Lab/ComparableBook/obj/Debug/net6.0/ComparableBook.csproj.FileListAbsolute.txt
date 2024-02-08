@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\bin\Debug\net6.0\ComparableBook.exe
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\bin\Debug\net6.0\ComparableBook.deps.json
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\bin\Debug\net6.0\ComparableBook.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\bin\Debug\net6.0\ComparableBook.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\bin\Debug\net6.0\ComparableBook.pdb
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\obj\Debug\net6.0\ComparableBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\obj\Debug\net6.0\ComparableBook.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\obj\Debug\net6.0\ComparableBook.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\obj\Debug\net6.0\ComparableBook.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\obj\Debug\net6.0\ComparableBook.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\obj\Debug\net6.0\refint\ComparableBook.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\obj\Debug\net6.0\ComparableBook.pdb
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\obj\Debug\net6.0\ComparableBook.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Lab\ComparableBook\obj\Debug\net6.0\ref\ComparableBook.dll
