@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.exe
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.deps.json
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\bin\Debug\net6.0\ComparingObjects.pdb
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\obj\Debug\net6.0\refint\ComparingObjects.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.pdb
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\obj\Debug\net6.0\ComparingObjects.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\ComparingObjects\obj\Debug\net6.0\ref\ComparingObjects.dll

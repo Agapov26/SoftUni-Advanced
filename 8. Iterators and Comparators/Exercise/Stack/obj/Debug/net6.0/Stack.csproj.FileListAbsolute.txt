@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\bin\Debug\net6.0\Stack.exe
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\bin\Debug\net6.0\Stack.deps.json
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\bin\Debug\net6.0\Stack.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\bin\Debug\net6.0\Stack.pdb
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\obj\Debug\net6.0\Stack.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\obj\Debug\net6.0\refint\Stack.dll
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\obj\Debug\net6.0\Stack.pdb
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\8. Iterators and Comparators\Exercise\Stack\obj\Debug\net6.0\ref\Stack.dll
