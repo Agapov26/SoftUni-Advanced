@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.exe
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.deps.json
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.dll
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\bin\Debug\net6.0\02. Fishing Competition.pdb
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.dll
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\obj\Debug\net6.0\refint\02. Fishing Competition.dll
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.pdb
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\obj\Debug\net6.0\02. Fishing Competition.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 1\02. Fishing Competition\obj\Debug\net6.0\ref\02. Fishing Competition.dll
