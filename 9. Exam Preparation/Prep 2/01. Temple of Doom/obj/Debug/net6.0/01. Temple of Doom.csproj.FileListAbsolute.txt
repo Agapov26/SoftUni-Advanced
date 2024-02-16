@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.exe
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.deps.json
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.dll
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\bin\Debug\net6.0\01. Temple of Doom.pdb
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.dll
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\obj\Debug\net6.0\refint\01. Temple of Doom.dll
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.pdb
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\obj\Debug\net6.0\01. Temple of Doom.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\9. Exam Preparation\Prep 2\01. Temple of Doom\obj\Debug\net6.0\ref\01. Temple of Doom.dll
