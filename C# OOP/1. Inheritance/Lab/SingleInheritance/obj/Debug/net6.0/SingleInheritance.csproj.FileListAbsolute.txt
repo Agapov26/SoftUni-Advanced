@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\obj\Debug\net6.0\refint\SingleInheritance.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\1. Inheritance\Lab\SingleInheritance\obj\Debug\net6.0\ref\SingleInheritance.dll
