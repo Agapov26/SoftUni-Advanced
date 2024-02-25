@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\obj\Debug\net6.0\SortPeopleByNameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\obj\Debug\net6.0\SortPeopleByNameAndAge.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\obj\Debug\net6.0\SortPeopleByNameAndAge.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\obj\Debug\net6.0\SortPeopleByNameAndAge.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\bin\Debug\net6.0\SortPeopleByNameAndAge.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\bin\Debug\net6.0\SortPeopleByNameAndAge.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\bin\Debug\net6.0\SortPeopleByNameAndAge.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\bin\Debug\net6.0\SortPeopleByNameAndAge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\bin\Debug\net6.0\SortPeopleByNameAndAge.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\obj\Debug\net6.0\SortPeopleByNameAndAge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\obj\Debug\net6.0\refint\SortPeopleByNameAndAge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\obj\Debug\net6.0\SortPeopleByNameAndAge.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\obj\Debug\net6.0\SortPeopleByNameAndAge.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\SortPeopleByNameAndAge\obj\Debug\net6.0\ref\SortPeopleByNameAndAge.dll

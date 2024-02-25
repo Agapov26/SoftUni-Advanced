@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\bin\Debug\net6.0\FirstAndReverseTeam.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\bin\Debug\net6.0\FirstAndReverseTeam.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\bin\Debug\net6.0\FirstAndReverseTeam.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\bin\Debug\net6.0\FirstAndReverseTeam.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\bin\Debug\net6.0\FirstAndReverseTeam.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\obj\Debug\net6.0\FirstAndReverseTeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\obj\Debug\net6.0\FirstAndReverseTeam.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\obj\Debug\net6.0\FirstAndReverseTeam.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\obj\Debug\net6.0\FirstAndReverseTeam.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\obj\Debug\net6.0\FirstAndReverseTeam.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\obj\Debug\net6.0\refint\FirstAndReverseTeam.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\obj\Debug\net6.0\FirstAndReverseTeam.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\obj\Debug\net6.0\FirstAndReverseTeam.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Lab\First and Reserve Team\obj\Debug\net6.0\ref\FirstAndReverseTeam.dll
