@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

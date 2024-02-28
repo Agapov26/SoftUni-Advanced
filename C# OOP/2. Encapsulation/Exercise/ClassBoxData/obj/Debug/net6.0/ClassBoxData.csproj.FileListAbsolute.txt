@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll

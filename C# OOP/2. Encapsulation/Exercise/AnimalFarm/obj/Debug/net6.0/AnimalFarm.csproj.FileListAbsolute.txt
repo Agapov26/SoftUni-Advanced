@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\2. Encapsulation\Exercise\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll
