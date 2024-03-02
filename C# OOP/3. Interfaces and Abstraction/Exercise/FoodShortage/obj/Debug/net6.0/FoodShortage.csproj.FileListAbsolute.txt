@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\obj\Debug\net6.0\refint\FoodShortage.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\FoodShortage\obj\Debug\net6.0\ref\FoodShortage.dll

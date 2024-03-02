@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\bin\Debug\net6.0\Telephony.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\bin\Debug\net6.0\Telephony.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\bin\Debug\net6.0\Telephony.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\bin\Debug\net6.0\Telephony.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\obj\Debug\net6.0\Telephony.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\obj\Debug\net6.0\Telephony.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\3. Interfaces and Abstraction\Exercise\Telephony\obj\Debug\net6.0\ref\Telephony.dll
