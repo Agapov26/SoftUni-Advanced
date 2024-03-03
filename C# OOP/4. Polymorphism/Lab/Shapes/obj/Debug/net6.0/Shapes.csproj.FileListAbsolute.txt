@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\Shapes\obj\Debug\net6.0\ref\Shapes.dll

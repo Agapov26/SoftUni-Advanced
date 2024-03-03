@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\bin\Debug\net6.0\MathOperations.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\bin\Debug\net6.0\MathOperations.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\bin\Debug\net6.0\MathOperations.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\bin\Debug\net6.0\MathOperations.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\bin\Debug\net6.0\MathOperations.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\obj\Debug\net6.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\obj\Debug\net6.0\MathOperations.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\obj\Debug\net6.0\MathOperations.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\obj\Debug\net6.0\MathOperations.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\obj\Debug\net6.0\MathOperations.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\obj\Debug\net6.0\refint\MathOperations.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\obj\Debug\net6.0\MathOperations.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\obj\Debug\net6.0\MathOperations.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Lab\MathOperations\obj\Debug\net6.0\ref\MathOperations.dll
