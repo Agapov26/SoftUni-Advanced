@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\bin\Debug\net6.0\Vehicles.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\bin\Debug\net6.0\Vehicles.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\obj\Debug\net6.0\Vehicles.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
