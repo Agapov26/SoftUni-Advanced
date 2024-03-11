@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Raiding
-build_property.ProjectDir = D:\Informatika\SoftUni Advanced C#\C# OOP\4. Polymorphism\Exercise\Raiding\
+build_property.ProjectDir = D:\Informatika\SoftUni-Advanced\C# OOP\4. Polymorphism\Exercise\Raiding\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

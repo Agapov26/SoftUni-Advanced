@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Informatika\\SoftUni Advanced C#\\C# OOP\\4. Polymorphism\\Exercise\\Raiding\\Raiding.csproj",
+      "projectUniqueName": "D:\\Informatika\\SoftUni-Advanced\\C# OOP\\4. Polymorphism\\Exercise\\Raiding\\Raiding.csproj",
       "projectName": "Raiding",
-      "projectPath": "D:\\Informatika\\SoftUni Advanced C#\\C# OOP\\4. Polymorphism\\Exercise\\Raiding\\Raiding.csproj",
+      "projectPath": "D:\\Informatika\\SoftUni-Advanced\\C# OOP\\4. Polymorphism\\Exercise\\Raiding\\Raiding.csproj",
       "packagesPath": "C:\\Users\\stani\\.nuget\\packages\\",
-      "outputPath": "D:\\Informatika\\SoftUni Advanced C#\\C# OOP\\4. Polymorphism\\Exercise\\Raiding\\obj\\",
+      "outputPath": "D:\\Informatika\\SoftUni-Advanced\\C# OOP\\4. Polymorphism\\Exercise\\Raiding\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
