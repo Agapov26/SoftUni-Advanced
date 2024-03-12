@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\obj\Debug\net6.0\refint\HighQualityMistakes.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\HighQualityMistakes\obj\Debug\net6.0\ref\HighQualityMistakes.dll

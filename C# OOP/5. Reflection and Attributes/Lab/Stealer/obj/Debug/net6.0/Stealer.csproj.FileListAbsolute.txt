@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\bin\Debug\net6.0\Stealer.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\bin\Debug\net6.0\Stealer.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\bin\Debug\net6.0\Stealer.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\bin\Debug\net6.0\Stealer.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\bin\Debug\net6.0\Stealer.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\obj\Debug\net6.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\obj\Debug\net6.0\Stealer.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\obj\Debug\net6.0\Stealer.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\obj\Debug\net6.0\refint\Stealer.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\obj\Debug\net6.0\Stealer.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\obj\Debug\net6.0\Stealer.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Stealer\obj\Debug\net6.0\ref\Stealer.dll
