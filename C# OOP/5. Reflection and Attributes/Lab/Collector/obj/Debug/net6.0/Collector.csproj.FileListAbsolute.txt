@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\bin\Debug\net6.0\Collector.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\bin\Debug\net6.0\Collector.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\bin\Debug\net6.0\Collector.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\bin\Debug\net6.0\Collector.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\bin\Debug\net6.0\Collector.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\obj\Debug\net6.0\Collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\obj\Debug\net6.0\Collector.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\obj\Debug\net6.0\Collector.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\obj\Debug\net6.0\Collector.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\obj\Debug\net6.0\Collector.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\obj\Debug\net6.0\refint\Collector.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\obj\Debug\net6.0\Collector.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\obj\Debug\net6.0\Collector.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\Collector\obj\Debug\net6.0\ref\Collector.dll

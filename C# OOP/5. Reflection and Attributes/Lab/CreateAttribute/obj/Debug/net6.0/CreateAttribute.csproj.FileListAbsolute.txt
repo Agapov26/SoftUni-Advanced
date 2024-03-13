@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\bin\Debug\net6.0\CreateAttribute.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\obj\Debug\net6.0\refint\CreateAttribute.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\obj\Debug\net6.0\CreateAttribute.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Lab\CreateAttribute\obj\Debug\net6.0\ref\CreateAttribute.dll
