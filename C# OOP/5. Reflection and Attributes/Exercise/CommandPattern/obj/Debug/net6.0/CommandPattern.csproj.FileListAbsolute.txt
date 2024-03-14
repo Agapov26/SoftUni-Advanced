@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\5. Reflection and Attributes\Exercise\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
