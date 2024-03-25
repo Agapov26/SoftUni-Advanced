@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\bin\Debug\net6.0\Singleton.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\bin\Debug\net6.0\Singleton.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\bin\Debug\net6.0\Singleton.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\bin\Debug\net6.0\Singleton.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\obj\Debug\net6.0\Singleton.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\obj\Debug\net6.0\Singleton.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\8. Design Patterns\Lab\Singleton\obj\Debug\net6.0\ref\Singleton.dll
