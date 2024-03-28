@@ -1,0 +1,28 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\bin\Debug\net6.0\NauticalCatchChallenge.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\bin\Debug\net6.0\NauticalCatchChallenge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\obj\Debug\net6.0\NauticalCatchChallenge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\bin\Debug\net6.0\NauticalCatchChallenge.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\bin\Debug\net6.0\NauticalCatchChallenge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\obj\Debug\net6.0\NauticalCatchChallenge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\01\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll

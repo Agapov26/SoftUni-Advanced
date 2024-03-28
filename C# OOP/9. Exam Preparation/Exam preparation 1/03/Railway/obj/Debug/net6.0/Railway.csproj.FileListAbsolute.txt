@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\bin\Debug\net6.0\Railway.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\bin\Debug\net6.0\Railway.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\bin\Debug\net6.0\Railway.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\bin\Debug\net6.0\Railway.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\obj\Debug\net6.0\Railway.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\obj\Debug\net6.0\refint\Railway.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\obj\Debug\net6.0\Railway.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 1\03\Railway\obj\Debug\net6.0\ref\Railway.dll
