@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\bin\Debug\net6.0\Television.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\bin\Debug\net6.0\Television.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\bin\Debug\net6.0\Television.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\bin\Debug\net6.0\Television.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\bin\Debug\net6.0\Television.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\obj\Debug\net6.0\Television.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\obj\Debug\net6.0\Television.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\obj\Debug\net6.0\Television.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\obj\Debug\net6.0\Television.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\obj\Debug\net6.0\Television.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\obj\Debug\net6.0\refint\Television.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\obj\Debug\net6.0\Television.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\obj\Debug\net6.0\Television.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\03\Television\obj\Debug\net6.0\ref\Television.dll

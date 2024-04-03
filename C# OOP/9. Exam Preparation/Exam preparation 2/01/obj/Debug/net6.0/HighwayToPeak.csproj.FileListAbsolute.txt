@@ -1,0 +1,14 @@
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\bin\Debug\net6.0\HighwayToPeak.exe
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\bin\Debug\net6.0\HighwayToPeak.deps.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\bin\Debug\net6.0\HighwayToPeak.runtimeconfig.json
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\bin\Debug\net6.0\HighwayToPeak.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\bin\Debug\net6.0\HighwayToPeak.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\obj\Debug\net6.0\HighwayToPeak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\obj\Debug\net6.0\HighwayToPeak.AssemblyInfoInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\obj\Debug\net6.0\HighwayToPeak.AssemblyInfo.cs
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\obj\Debug\net6.0\HighwayToPeak.csproj.CoreCompileInputs.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\obj\Debug\net6.0\HighwayToPeak.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\obj\Debug\net6.0\refint\HighwayToPeak.dll
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\obj\Debug\net6.0\HighwayToPeak.pdb
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\obj\Debug\net6.0\HighwayToPeak.genruntimeconfig.cache
+D:\Informatika\SoftUni Advanced C#\C# OOP\9. Exam Preparation\Exam preparation 2\01\obj\Debug\net6.0\ref\HighwayToPeak.dll
